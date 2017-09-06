@@ -1,0 +1,10 @@
+
+*.plist
+
+*.swp
+
+src/kakatsuki.dSYM/Contents/Resources/DWARF/kakatsuki
+
+src/kakatsuki
+
+src/shit
